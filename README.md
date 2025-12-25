@@ -1,7 +1,7 @@
 # Portfolio-Optimizer-
 Constrained optimizer using Mean–variance framework 
 
-# Portfolio Optimizer (CVXPY)
+# Portfolio Optimizer
 
 A constrained mean–variance portfolio optimizer for daily equity long–short strategies.
 
