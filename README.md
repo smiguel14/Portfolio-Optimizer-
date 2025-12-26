@@ -26,7 +26,7 @@ Maximize:
 
 Subject to:
 
-- ∑ w = 0 (Market Neutral constraint)
+- ∑ w = 0 (Exposure constraint)
 - ∑ |w| ≤ L (Leverage constraint)
 - |wᵢ| ≤ w_max (Concentration constraint)
-- Bᵀw = 0 (factor neutrality)
+- Bᵀw = 0 (Factor neutrality constraint)
